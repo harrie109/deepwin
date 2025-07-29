@@ -14,8 +14,8 @@ def home():
     return "✅ CRT Signal Bot is running (keepalive)"
 
 # Your Telegram credentials
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+TOKEN = "8472184215:AAG7bZCJ6yprFlGFRtN3kB8IflyuRpHLdv8"
+CHAT_ID = "6234179043"
 
 # Timezone
 IST = pytz.timezone("Asia/Kolkata")
