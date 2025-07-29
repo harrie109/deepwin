@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: crt-signal-bot
+    env: python
+    plan: free
+    region: oregon
+    buildCommand: ""
+    startCommand: python bot.py
+    runtime: python
+    autoDeploy: true
