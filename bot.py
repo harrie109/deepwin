@@ -12,8 +12,8 @@ from telegram import Bot
 from telegram.ext import Updater, CommandHandler
 
 # ========== CONFIG ==========
-TELEGRAM_TOKEN = 'PASTE_YOUR_BOT_TOKEN_HERE'
-CHAT_ID = 'PASTE_YOUR_CHAT_ID_HERE'
+TELEGRAM_TOKEN = '8472184215:AAG7bZCJ6yprFlGFRtN3kB8IflyuRpHLdv8'
+CHAT_ID = '6234179043'
 SYMBOLS = ['EURUSD', 'GBPUSD', 'USDJPY', 'AUDUSD', 'USDCAD']  # Live Quotex pairs only
 TIMEZONE = pytz.timezone('Asia/Kolkata')
 INTERVAL = '1m'
