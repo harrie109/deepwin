@@ -4,7 +4,8 @@ services:
     env: python
     plan: free
     region: oregon
+    runtime: python
     buildCommand: ""
     startCommand: python bot.py
-    runtime: python
+    pythonVersion: 3.11
     autoDeploy: true
