@@ -7,5 +7,5 @@ services:
     runtime: python
     buildCommand: ""
     startCommand: python bot.py
-    pythonVersion: 3.11
+    pythonVersion: 3.11.11
     autoDeploy: true
